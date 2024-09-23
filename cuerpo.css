@@ -152,6 +152,7 @@ html {
 
 .rating ion-icon{
     color: var(--primary);
+    display: flex;
 }
 
 .swiper-slide-shadow-left,
